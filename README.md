@@ -1,6 +1,6 @@
 # HI! There, I'm Ananya Dhage👋
 
-# iam passionate to be come an AI/ML engineer iam a 1st year student . I love tackling complex problems, learning new skills, collaborating with diverse teams to create innovative solutions.
+# iam passionate to become an AI/ML engineer. I love tackling complex problems, learning new skills, collaborating with diverse teams to create innovative solutions.
 
 # currently learning: Btech in AIML
 
